@@ -1,0 +1,26 @@
+---
+title: "My wish list"
+author: "Clay Ford"
+date: "2025-12-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+- [Casio AE1200WHUB-8AV](https://www.casio.com/us/watches/casio/product.AE-1200WHUB-8AV/)
+- [Casio AE1000W-8AV](https://www.casio.com/us/watches/casio/product.AE-1000W-8AV/)
+- [Masterforce™ 800-Amp Lithium-Ion Jump Starter](https://www.menards.com/main/tools/automotive/chargers-jumper-cables/masterforce-trade-800-amp-lithium-ion-jump-starter/mf180/p-1565245576798-c-9100.htm)
+- [OptiVisor Professional Magnifier Hands Free Headband](https://www.esslinger.com/optivisor-professional-magnifier-hands-free-headband-for-jewelers-and-watchmakers-by-donegan-choose-size/) (8", 2-1/2x - DA5)
+- [GHS Bass Boomer Med Light 4 String Roundwound 45-100 ML3045 Long Scale](https://bassstringsonly.com/products/ghs-bass-boomer-med-light-4-string-roundwound-45-100-ml3045-long-scale?pr_prod_strat=e5_desc&pr_rec_id=0338759ce&pr_rec_pid=6120923791533&pr_ref_pid=6120923070637&pr_seq=uniform)
+- [Challenger: A True Story of Heroism and Disaster on the Edge of Space](https://www.barnesandnoble.com/w/challenger-adam-higginbotham/1144311842?ean=9781982176624)
+- [Kylito's 4 pack](https://kylitos.com/shop/ols/products/4-pack-price-includes-shipping) (original and hot, two of each)
+- [2.5 oz. Orange Blossom Honey Everyday Facial Moisturizer with SPF 30](https://nakedbee.com/collections/cleansing-gel-moisturizer/products/orange-blossom-honey-facial-moisturizer-with-spf-30)
+- [Moleskine Classic Planner 2026 Large](https://www.moleskine.com/en-us/shop/planners/12-month-planner/weekly-planners/classic-planner-2026-pocket-black-8056999274757.html) (Black, 5 x 8.25 in, weekly planner, soft cover)
+- [Original Peg's Salt (8 oz jar)](https://pegssalt.com/collections/all-products/products/pegs-salt-8-oz)
+- [Hi-Pitch Mosaic IPA](https://hiwirebrewing.com/beer/) (Hi-Wire Brewing)
+- [Duke Cannon Illegally Cut Pine Soap](https://dukecannon.com/collections/holiday-soap/products/illegally-cut-pine)
+- [ICON Drop Point Knife with Ceramic Bearings](https://www.harborfreight.com/drop-point-knife-with-ceramic-bearings-70613.html)
+- [Green Mattell Football 2 Game](https://ebay.us/m/ZamnAH) (doesn't have to be this listing)
