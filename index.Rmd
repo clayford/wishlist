@@ -10,18 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Books
-- [Project Hail Mary](https://www.barnesandnoble.com/w/project-hail-mary-andy-weir/1137456421?ean=9780593135228)
-- [Lonesome Dove](https://www.barnesandnoble.com/w/lonesome-dove-larry-mcmurtry/1001920809?ean=9781439195260)
-- [The Count of Monte Cristo](https://www.barnesandnoble.com/w/the-count-of-monte-cristo-alexandre-dumas/1100068698?ean=9780140449266)
 
-## Electronics
-- [Casio AE1000W-8AV](https://www.casio.com/us/watches/casio/product.AE-1000W-8AV/)
-- [Masterforce® 1,200-Amp Lithium-Ion Jump Starter](https://www.menards.com/main/tools/automotive/chargers-jumper-cables/masterforce-reg-1-200-amp-lithium-ion-jump-starter/clj1200mf/p-1642874292192761-c-9100.htm)
-- [Green Mattell Football 2 Game](https://ebay.us/m/ZamnAH) (doesn't have to be this listing)
-
-## Food and Personal Care
+- [5 Year Diary](https://theiceplant.cc/product/5-year-diary/)
+- [Green Mattel Football 2 Game](https://ebay.io/m/Wn36EU) (doesn't have to be this listing)
+- [Fluicer](https://us.dreamfarm.com/fluicer/)
 - [Kylito's 4 pack](https://kylitos.com/shop/ols/products/4-pack-price-includes-shipping) (original and hot, two of each)
 - [2.25 oz. Orange Blossom Honey Hand & Body Lotion](https://nakedbee.com/collections/orange-blossom-honey-hand-body-lotion/products/orange-blossom-honey-lotion-2-25-oz)
-- [Hi-Pitch Mosaic IPA](https://hiwirebrewing.com/beer/) (Hi-Wire Brewing)
-- [Duke Cannon Illegally Cut Pine Soap](https://dukecannon.com/collections/holiday-soap/products/illegally-cut-pine)
+- [Duke Cannon Soap](https://dukecannon.com/collections/body-wash-bar-soap)
+- A good ice scraper, something [like this](https://www.tractorsupply.com/tsc/product/true-temper-snow-brush-with-ice-scraper-6102060)
+- [DSG Men's Stride Short Sleeve T-Shirts](https://www.dickssportinggoods.com/p/dsg-mens-stride-short-sleeve-t-shirt-26dsgmfitnstrdsstxdbf/26dsgmfitnstrdsstxdbf?color=University%20Navy) any color
+- [Digital Kitchen Scale](https://etekcity.com/collections/kitchen-scales/products/digital-kitchen-scale-ek6015)
